@@ -1,0 +1,6 @@
+print("Hello World")
+print("Naveen", "Msd", "Bharath", sep='/', end=" ")
+print("are the friends")
+print("Dhruva", "Jagadeesha", "Naveen", sep='\n')
+print(3 * "\n")
+print("Dhruva", "Jagadeesha", "Naveen", sep='\t\t')
