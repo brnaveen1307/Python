@@ -10,4 +10,4 @@ while(True):
     else:
         total += float(price)  #Coverting string to float
 
-print("❤️ The Total Bill is: ", total) #windows + i (for emojis)
+print("❤️ The Total Bill is: ", total) #windows + . (for emojis)
