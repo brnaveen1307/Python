@@ -1,0 +1,1 @@
+print (dir(__builtins__)) #This is the command to list the builtin functions available in Python
