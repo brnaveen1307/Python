@@ -1,0 +1,2 @@
+250,Food,Lunch with friends
+100,Transport,Auto fare
